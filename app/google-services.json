@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52734088168",
+    "firebase_url": "https://dailysquirrel-fadb0.firebaseio.com",
+    "project_id": "dailysquirrel-fadb0",
+    "storage_bucket": "dailysquirrel-fadb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52734088168:android:d2db72e212331c1d0e8a5d",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52734088168-h915c2h2rdf0op7r1csdq86640unao7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmSk_D9zYUH7fbKIKoXfraapBT620NnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52734088168-h915c2h2rdf0op7r1csdq86640unao7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
